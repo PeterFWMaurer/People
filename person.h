@@ -1,5 +1,7 @@
 // person.h
 //
+// This class represents a person
+//
 
 #include <string>
 
